@@ -1,0 +1,1 @@
+os.system("move /y {} {}".format(arquivo,os.path.expanduser("~")+"/Downloads"))
